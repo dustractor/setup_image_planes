@@ -1,8 +1,7 @@
 bl_info = {
     "name": "Setup Image Planes",
     "blender": (2,80,0),
-    "category":"Image Planes"
-}
+    "category":"Image Planes" }
 
 
 import bpy
